@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
+
+# Tools / build artifacts
+dist/
+build/
+.bundle/
+.cache/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# System files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Generated images output (avoids committing large binaries)
+
+assets/tools/
+
+
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Git hooks and state
+.husky/
+
+# IDE files
+*.code-workspace
+
+$
